@@ -1,6 +1,6 @@
-# Frontend Mentor - News Homepage
+# Frontend Mentor - Multi Step Form
 
-This is a solution to the [News Homepage on Frontend Mentor](https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl).
+This is a solution to the [Multi Step on Frontend Mentor](https://www.frontendmentor.io/challenges/multistep-form-YVAnSdqQBJ).
 
 ## Table of contents
 
